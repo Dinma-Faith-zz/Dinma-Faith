@@ -5,7 +5,7 @@
 I'm Dinma, a software developer who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a Micronaut.
-- 📚 I’m currently learning software development using JavaScript.
+- 📚 I’m currently learning FullStack web development.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: Kindly click this links => [LinkedIn](https://www.linkedin.com/in/chidinma-faith-544777200/) - [Twitter](https://twitter.com/p_phayte)
 - :+1:Email Address: phaytep@gmail.com
